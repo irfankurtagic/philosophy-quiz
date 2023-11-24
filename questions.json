@@ -22,5 +22,61 @@
     "choice3": "Idealism",
     "choice4": "Skepticism",
     "answer": 2
+  },
+  {
+    "question": "What is the central concept in existentialist philosophy, emphasizing individual freedom and responsibility?",
+    "choice1": "Utilitarianism",
+    "choice2": "Determinism",
+    "choice3": "Absurdism",
+    "choice4": "Nihilism",
+    "answer": 1
+  },
+  {
+    "question": "What is the central concept in existentialism that emphasizes individual freedom and the responsibility of individuals to create their own meaning in life?",
+    "choice1": "Determinism",
+    "choice2": "Nihilism",
+    "choice3": "Absurdism",
+    "choice4": "Existential Authenticity",
+    "answer": 4
+  },
+  {
+    "question": "What is the central concept of existentialism?",
+    "choice1": "Utilitarianism",
+    "choice2": "Absurdism",
+    "choice3": "Dualism",
+    "choice4": "Determinism",
+    "answer": 2
+  },
+  {
+    "question": "Who is the philosopher known for the concept of the \"veil of ignorance\" in the context of justice?",
+    "choice1": "Immanuel Kant",
+    "choice2": "Jean-Jacques Rousseau",
+    "choice3": "John Rawls",
+    "choice4": "John Stuart Mill",
+    "answer": 3
+  },
+  {
+    "question": "In Eastern philosophy, which school of thought emphasizes the concept of non-attachment and the path to enlightenment through self-realization?",
+    "choice1": "Confucianism",
+    "choice2": "Taoism",
+    "choice3": "Zen Buddhism",
+    "choice4": "Shinto",
+    "answer": 3
+  },
+  {
+    "question": "In African philosophy, which term refers to the concept of a life force or spiritual energy that permeates the universe and all living things?",
+    "choice1": "Ashé",
+    "choice2": "Ubuntu",
+    "choice3": "Maat",
+    "choice4": "Kaitiakitanga",
+    "answer": 1
+  },
+  {
+    "question": "Which ancient Greek philosopher is known for his teachings on skepticism, including the idea that knowledge is elusive and that we should suspend judgment in the absence of certainty?",
+    "choice1": "Socrates",
+    "choice2": "Plato",
+    "choice3": "Aristotle",
+    "choice4": "Pyrrho",
+    "answer": 4
   }
 ]
