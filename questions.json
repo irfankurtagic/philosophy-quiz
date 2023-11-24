@@ -1,0 +1,26 @@
+[
+  {
+    "question": "According to existentialist philosophy, which philosopher is best known for the concept of \"existence precedes essence?\"",
+    "choice1": "Immanuel Kant",
+    "choice2": "Jean-Jacques Rousseau",
+    "choice3": "Jean-Paul Sartre",
+    "choice4": "Friedrich Nietzsche",
+    "answer": 3
+  },
+  {
+    "question": "In ethics, which moral theory is based on the principle that the right action is the one that maximizes overall happiness or pleasure?",
+    "choice1": "Deontology",
+    "choice2": "Virtue Ethics",
+    "choice3": "Utilitarianism",
+    "choice4": "Existentialism",
+    "answer": 3
+  },
+  {
+    "question": "In epistemology, what is the philosophical position that knowledge is primarily or exclusively derived from experience?",
+    "choice1": "Rationalism",
+    "choice2": "Empiricism",
+    "choice3": "Idealism",
+    "choice4": "Skepticism",
+    "answer": 2
+  }
+]
