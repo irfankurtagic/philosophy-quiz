@@ -76,7 +76,33 @@
   0% {
     transform: rotate(0deg);
   }
+
   100% {
     transform: rotate(360deg);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media (prefers-color-scheme: dark) {
+  .choice-container {
+    background-color: #141414;
+  }
+
+  .correct {
+    background-color: #28a745;
+  }
+
+  .incorrect {
+    background-color: #dc3545;
   }
 }
