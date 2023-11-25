@@ -78,5 +78,85 @@
     "choice3": "Aristotle",
     "choice4": "Pyrrho",
     "answer": 4
+  },
+  {
+    "question": "In Islamic philosophy, which medieval philosopher is known for his synthesis of Greek philosophy, particularly the works of Aristotle, with Islamic theology?",
+    "choice1": "Avicenna (Ibn Sina)",
+    "choice2": "Al-Farabi",
+    "choice3": "Al-Ghazali",
+    "choice4": "Averroes (Ibn Rushd)",
+    "answer": 1
+  },
+  {
+    "question": "Meaning of the word \"Philosophy\"",
+    "choice1": "Lover of questions",
+    "choice2": "Lover of soapboxes",
+    "choice3": "Lover of philosophy",
+    "choice4": "Love of wisdom",
+    "answer": 4
+  },
+  {
+    "question": "The allegory of the cave argues what?",
+    "choice1": "We are born with infinite knowledge",
+    "choice2": "Our perceptions may not be accurate",
+    "choice3": "Perceptions are sources of absolute knowledge",
+    "choice4": "There is value in ignorance",
+    "answer": 2
+  },
+  {
+    "question": "Who is widely known as the first existentialist, despite never having used the word existentialism?",
+    "choice1": "Søren Kierkegaard",
+    "choice2": "Hannah Arendt",
+    "choice3": "Alan Watts",
+    "choice4": "Jean-Paul Sartre",
+    "answer": 1
+  },
+  {
+    "question": "According to Plato, what is knowledge?",
+    "choice1": "A justified true belief",
+    "choice2": "There is no such thing as true knowledge",
+    "choice3": "That which can be proven",
+    "choice4": "Opinion",
+    "answer": 1
+  },
+  {
+    "question": "Metaphysics is the study of...",
+    "choice1": "Knowledge",
+    "choice2": "Ethics",
+    "choice3": "Politics",
+    "choice4": "Existence",
+    "answer": 4
+  },
+  {
+    "question": "What is the philosophical study of value called?",
+    "choice1": "Ethics",
+    "choice2": "Axiology",
+    "choice3": "Valuation",
+    "choice4": "Ontology",
+    "answer": 2
+  },
+  {
+    "question": "Plato was a student to which philosopher?",
+    "choice1": "Aristotle",
+    "choice2": "Thomas Aquinas",
+    "choice3": "Xenophon",
+    "choice4": "Socrates",
+    "answer": 4
+  },
+  {
+    "question": "Epistemology is the theory of...",
+    "choice1": "Cosmology",
+    "choice2": "Poetics",
+    "choice3": "Knowledge",
+    "choice4": "Metaphysics",
+    "answer": 3
+  },
+  {
+    "question": "Which branch of philosophy deals with the question of beauty?",
+    "choice1": "Decorum",
+    "choice2": "Dramatics",
+    "choice3": "Poetics",
+    "choice4": "Aesthetics",
+    "answer": 4
   }
 ]
