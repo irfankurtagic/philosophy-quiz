@@ -5,10 +5,13 @@
 
 * {
   box-sizing: border-box;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   margin: 0;
   padding: 0;
   color: #333;
+}
+
+html {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1,
@@ -19,25 +22,19 @@ h4 {
 }
 
 h1 {
-  font-size: 5.4rem;
+  font-size: 5rem;
   color: #56a5eb;
-  margin-bottom: 5rem;
-}
-
-h1>span {
-  font-size: 2.4rem;
-  font-weight: 500;
+  margin-bottom: 10rem;
+  text-align: center;
 }
 
 h2 {
-  font-size: 3rem;
-  margin-bottom: 4rem;
-  font-weight: 700;
+  font-size: 2.9rem;
+  margin-bottom: 3rem;
 }
 
 h3 {
-  font-size: 2.8rem;
-  font-weight: 500;
+  font-size: 2.1rem;
 }
 
 /* UTILITIES */
@@ -140,7 +137,7 @@ input::placeholder {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    background: black;
+    background-color: black;
   }
 
   * {
@@ -153,27 +150,10 @@ input::placeholder {
     background-color: #141414;
   }
 
-  .btn:hover {
-    cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-    transform: translateY(-0.1rem);
-    transition: transform 150ms;
-  }
-
-  .btn[disabled]:hover {
-    cursor: not-allowed;
-    box-shadow: none;
-    transform: none;
-  }
-
   /* FORMS */
   input {
     color: hsla(0, 0%, 100%, 0.9);
     background-color: black;
-    margin-bottom: 1rem;
-    width: 20rem;
-    padding: 1.5rem;
-    font-size: 1.8rem;
     border: 0.1rem solid #56a5eb;
     box-shadow: none;
   }

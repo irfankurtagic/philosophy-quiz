@@ -3,6 +3,7 @@
   margin-bottom: 0.5rem;
   width: 100%;
   font-size: 1.8rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   border: 0.1rem solid rgb(86, 165, 235, 0.25);
   background-color: white;
 }
@@ -42,22 +43,27 @@
 
 .hud-prefix {
   text-align: center;
-  font-size: 2rem;
+  font-size: 1.6rem;
 }
 
 .hud-main-text {
+  font-size: 3rem;
+  font-weight: bold;
   text-align: center;
+  color: #56a5eb;
+  margin-top: 12px;
+  margin-bottom: 9rem;
 }
 
 #progressBar {
   width: 20rem;
   height: 4rem;
-  border: 0.3rem solid #56a5eb;
+  border: 0.4rem solid #071f33;
   margin-top: 1.5rem;
 }
 
 #progressBarFull {
-  height: 3.4rem;
+  height: 3.2rem;
   background-color: #56a5eb;
   width: 0%;
 }
@@ -104,5 +110,16 @@
 
   .incorrect {
     background-color: #dc3545;
+  }
+
+  .choice-prefix {
+    padding: 1.5rem 2.5rem;
+    background-color: #071f33;
+    color: #56a5eb;
+  }
+
+  /* LOADER */
+  #loader {
+    border-top: 1.6rem solid #071f33;
   }
 }
