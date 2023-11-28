@@ -77,7 +77,7 @@ h3 {
 
 /* BUTTONS */
 .btn {
-  font-size: 18px;
+  font-size: 16px;
   padding: 1rem 0;
   width: 20rem;
   text-align: center;
@@ -136,7 +136,7 @@ input::placeholder {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    background-color: #141414;
+    background-color: #0f0f0f;
     font-size: 100%;
   }
 
@@ -147,13 +147,13 @@ input::placeholder {
   /* BUTTONS */
   .btn {
     color: #56a5eb;
-    background-color: #0a0a0a;
+    background-color: #141414;
   }
 
   /* FORMS */
   input {
     color: hsla(0, 0%, 100%, 0.9);
-    background-color: #0a0a0a;
+    background-color: #141414;
     border: 0.1rem solid #56a5eb;
     box-shadow: none;
   }
