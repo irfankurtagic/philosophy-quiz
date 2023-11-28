@@ -158,20 +158,7 @@
     "choice3": "Poetics",
     "choice4": "Aesthetics",
     "answer": 4
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-  ,
+  },
   {
     "question": "In Japanese philosophy, which concept refers to the aesthetic appreciation of impermanence and the transient nature of beauty, often associated with cherry blossoms?",
     "choice1": "Wabi-sabi",
@@ -186,70 +173,6 @@
     "choice2": "Ashé",
     "choice3": "Maat",
     "choice4": "Ubuntu",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
-    "answer": 4
-  },
-  {
-    "question": "philosophy",
-    "choice1": "Decorum",
-    "choice2": "Dramatics",
-    "choice3": "Poetics",
-    "choice4": "Aesthetics",
     "answer": 4
   }
 ]
