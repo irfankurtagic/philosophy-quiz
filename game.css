@@ -58,12 +58,12 @@
   width: 50rem;
   max-width: 13rem;
   height: 2rem;
-  border: 0.4rem solid #071f33;
+  border: 0.4rem solid #56a5eb;
   margin-top: 1rem;
 }
 
 #progressBarFull {
-  height: 1.2rem;
+  height: 1.25rem;
   background-color: #56a5eb;
   width: 0%;
 }
@@ -115,6 +115,10 @@
   .choice-prefix {
     background-color: #071f33;
     color: #56a5eb;
+  }
+
+  #progressBar {
+    border: 0.4rem solid #071f33;
   }
 
   /* LOADER */
