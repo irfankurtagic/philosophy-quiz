@@ -9,7 +9,6 @@
 
 .choice-container:hover {
   cursor: pointer;
-  box-shadow: 0 0 0.4rem 0 #56a6eb85;
 }
 
 .choice-prefix {
