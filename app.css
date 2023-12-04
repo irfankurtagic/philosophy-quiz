@@ -13,11 +13,8 @@ html {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.container {
-  background: url(/philosophy-quiz/philosophy.png);
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: center center;
+img {
+  filter: blur(10px);
 }
 
 h1,
@@ -140,6 +137,10 @@ input::placeholder {
 
 @media (prefers-color-scheme: dark) {
   :root {
+    background: url(/philosophy-quiz/philosophy.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: bottom left;
     background-color: #0f0f0f;
   }
 
