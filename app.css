@@ -1,4 +1,8 @@
 :root {
+  background-image: url(/philosophy-quiz/philosophy-l.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
   background-color: #ecf5ff;
 }
 
@@ -11,10 +15,6 @@
 
 html {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-
-img {
-  filter: blur(10px);
 }
 
 h1,
@@ -137,10 +137,10 @@ input::placeholder {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    background: url(/philosophy-quiz/philosophy.png);
+    background-image: url(/philosophy-quiz/philosophy.png);
     background-repeat: no-repeat;
-    background-size: auto;
-    background-position: bottom left;
+    background-size: contain;
+    background-position: center center;
     background-color: #0f0f0f;
   }
 
