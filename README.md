@@ -8,4 +8,4 @@ A user indicates their preference through an operating system setting (e.g. ligh
 
 Dark             |  Light
 :-------------------------:|:-------------------------:
-![image](https://github.com/irfankurtagic/philosophy-quiz/assets/72319855/83f53870-8c2f-4533-a241-bd03317f52a2)  |  ![image](https://github.com/irfankurtagic/philosophy-quiz/assets/72319855/5160cffd-ad09-4e95-9fe9-5d79d42b53db)
+![image](https://github.com/irfankurtagic/philosophy-quiz/assets/72319855/489b919a-e26c-41ad-b1b2-35309512e205)  |  ![image](https://github.com/irfankurtagic/philosophy-quiz/assets/72319855/5753d211-84c7-47e4-8936-57ecb3f46d8c)
