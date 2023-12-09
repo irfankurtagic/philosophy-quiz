@@ -1,4 +1,4 @@
-# Philosophy Quiz
+# Φιλοσοφία
 Small, but hopefully fun philosophy quiz.
 
 And, of course, you can play it [here](https://irfandaily.neocities.org/philosophy-quiz).
