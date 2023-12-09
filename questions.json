@@ -120,7 +120,7 @@
     "answer": 1
   },
   {
-    "question": "Metaphysics is the study of...",
+    "question": "Metaphysics is the study of…",
     "choice1": "Knowledge",
     "choice2": "Ethics",
     "choice3": "Politics",
@@ -144,7 +144,7 @@
     "answer": 4
   },
   {
-    "question": "Epistemology is the theory of...",
+    "question": "Epistemology is the theory of…",
     "choice1": "Cosmology",
     "choice2": "Poetics",
     "choice3": "Knowledge",
@@ -174,5 +174,125 @@
     "choice3": "Maat",
     "choice4": "Ubuntu",
     "answer": 4
+  },
+  {
+    "question": "The four main divisions of philosophy are metaphysics, epistemology, axiology, and?",
+    "choice1": "aesthetics",
+    "choice2": "categorical logic",
+    "choice3": "bioethics",
+    "choice4": "logic",
+    "answer": 4
+  },
+  {
+    "question": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to?",
+    "choice1": "the soul",
+    "choice2": "the justice system",
+    "choice3": "the state",
+    "choice4": "the body",
+    "answer": 1
+  },
+  {
+    "question": "For Socrates, the soul is harmed by lack of?",
+    "choice1": "courage",
+    "choice2": "knowledge",
+    "choice3": "wealth",
+    "choice4": "community",
+    "answer": 2
+  },
+  {
+    "question": "A question-and-answer dialogue in which propositions are methodically scrutinized to uncover the truth is known as?",
+    "choice1": "a debate",
+    "choice2": "an argument",
+    "choice3": "the Socratic method",
+    "choice4": "the Socratic jest",
+    "answer": 3
+  },
+  {
+    "question": "If you assume that a set of statements is true, and yet you can deduce a false or absurd statement from it, then the original set of statements as a whole must be false. This kind of argument is known as?",
+    "choice1": "hypothetical syllogism",
+    "choice2": "modus tollens",
+    "choice3": "modus ponens",
+    "choice4": "reductio ad absurdum",
+    "answer": 4
+  },
+  {
+    "question": "The systematic use of critical reasoning to try to find answers to fundamental questions about reality, morality, and knowledge is called?",
+    "choice1": "the philosophical method",
+    "choice2": "propositional logic",
+    "choice3": "syllogistic reasoning",
+    "choice4": "the argumentative method",
+    "answer": 1
+  },
+  {
+    "question": "The famous statement “An unexamined life is not worth living” is attributed to?",
+    "choice1": "Aristotle",
+    "choice2": "Socrates",
+    "choice3": "John Locke",
+    "choice4": "Plato",
+    "answer": 2
+  },
+  {
+    "question": "The study of reality in the broadest sense, an inquiry into the elemental nature of the universe and the things in it, is known as?",
+    "choice1": "axiology",
+    "choice2": "epistemology",
+    "choice3": "metaphysics",
+    "choice4": "quantum physics",
+    "answer": 3
+  },
+  {
+    "question": "Questions like “What is knowledge?” and “What is truth?” are mainstays in the branch of philosophy known as?",
+    "choice1": "aesthetics",
+    "choice2": "logic",
+    "choice3": "metaphysics",
+    "choice4": "epistemology",
+    "answer": 4
+  },
+  {
+    "question": "According to Socrates, a clear sign that a person has _____ is her exclusive pursuit of social status, wealth, power, and pleasure.",
+    "choice1": "an unhealthy soul",
+    "choice2": "worldly wisdom",
+    "choice3": "philosophical ambition",
+    "choice4": "exceptional desires",
+    "answer": 1
+  },
+  {
+    "question": "Which philosopher is best known for his statement cogito ergo sum?",
+    "choice1": "Socrates",
+    "choice2": "René Descartes",
+    "choice3": "Jean-Paul Sartre",
+    "choice4": "Plato",
+    "answer": 2
+  },
+  {
+    "question": "Philosophy comes from the Greek philosophia, meaning what?",
+    "choice1": "Lover of soapboxes",
+    "choice2": "Lover of questions",
+    "choice3": "Love of wisdom",
+    "choice4": "Lover of philosophy",
+    "answer": 3
+  },
+  {
+    "question": "Thomas Aquinas's cosmological arguments argue for…",
+    "choice1": "Nihilism",
+    "choice2": "The existence of God",
+    "choice3": "The existence of other intelligent life",
+    "choice4": "The existence of knowledge",
+    "answer": 2
+  },
+  {
+    "question": "Who wrote The Last Messiah?",
+    "choice1": "Alan Watts",
+    "choice2": "Socrates",
+    "choice3": "Peter Wessel Zapffe",
+    "choice4": "Frederich Nietzsche",
+    "answer": 3
+  },
+  {
+    "question": "Existential nihilism insists what?",
+    "choice1": "Humans are naturally codependent",
+    "choice2": "The human condition has no meaning",
+    "choice3": "Death is not the end",
+    "choice4": "Knowledge is limited",
+    "answer": 2
   }
 ]
