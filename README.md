@@ -1,7 +1,7 @@
 # Φιλοσοφία
 Small, but hopefully fun philosophy quiz.
 
-And, of course, you can play it [here](https://irfandaily.neocities.org/philosophy-quiz).
+And, of course, you can play it [here](https://byc0jl3.neocities.org/philosophy-quiz).
 
 ## Theme
 A user indicates their preference through an operating system setting (e.g. light or dark mode) or a user agent setting. More about [prefers-color-scheme](https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme).
