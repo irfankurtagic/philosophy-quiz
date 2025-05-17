@@ -294,5 +294,187 @@
     "choice3": "Death is not the end",
     "choice4": "Knowledge is limited",
     "answer": 2
+  },{
+    "question": "Which philosopher developed the concept of the 'Übermensch' or 'Overman'?",
+    "choice1": "Karl Marx",
+    "choice2": "Søren Kierkegaard",
+    "choice3": "Friedrich Nietzsche",
+    "choice4": "Martin Heidegger",
+    "answer": 3
+  },
+  {
+    "question": "Which philosopher is known for the idea of the 'categorical imperative'?",
+    "choice1": "Immanuel Kant",
+    "choice2": "John Stuart Mill",
+    "choice3": "David Hume",
+    "choice4": "Baruch Spinoza",
+    "answer": 1
+  },
+  {
+    "question": "Who wrote 'Being and Time', a foundational work in existential phenomenology?",
+    "choice1": "Jean-Paul Sartre",
+    "choice2": "Martin Heidegger",
+    "choice3": "Albert Camus",
+    "choice4": "Simone de Beauvoir",
+    "answer": 2
+  },
+  {
+    "question": "Which philosopher argued that 'life is suffering' and that desire is the root of suffering?",
+    "choice1": "Gautama Buddha",
+    "choice2": "Confucius",
+    "choice3": "Laozi",
+    "choice4": "Hsun Tzu",
+    "answer": 1
+  },
+  {
+    "question": "Which philosopher wrote 'The Republic'?",
+    "choice1": "Plato",
+    "choice2": "Aristotle",
+    "choice3": "Pythagoras",
+    "choice4": "Heraclitus",
+    "answer": 1
+  },
+  {
+    "question": "What is the philosophical position that everything arises from natural properties and causes, and supernatural explanations are excluded?",
+    "choice1": "Dualism",
+    "choice2": "Naturalism",
+    "choice3": "Idealism",
+    "choice4": "Pantheism",
+    "answer": 2
+  },
+  {
+    "question": "What is 'tabula rasa' in philosophy?",
+    "choice1": "A blank slate",
+    "choice2": "A moral law",
+    "choice3": "A divine being",
+    "choice4": "An ideal state",
+    "answer": 1
+  },
+  {
+    "question": "Who is the philosopher known for the 'Trolley Problem' thought experiment?",
+    "choice1": "Philippa Foot",
+    "choice2": "Elizabeth Anscombe",
+    "choice3": "Thomas Nagel",
+    "choice4": "Peter Singer",
+    "answer": 1
+  },
+  {
+    "question": "Who is associated with the concept of 'moral luck'?",
+    "choice1": "Bernard Williams",
+    "choice2": "Immanuel Kant",
+    "choice3": "Aristotle",
+    "choice4": "Jeremy Bentham",
+    "answer": 1
+  },
+  {
+    "question": "What is solipsism?",
+    "choice1": "The belief in many gods",
+    "choice2": "The idea that only one's own mind is sure to exist",
+    "choice3": "The doctrine that happiness is the greatest good",
+    "choice4": "The theory that knowledge is impossible",
+    "answer": 2
+  },
+  {
+    "question": "What is the term for a logical argument where the conclusion necessarily follows from the premises?",
+    "choice1": "Circular reasoning",
+    "choice2": "Inductive reasoning",
+    "choice3": "Abductive reasoning",
+    "choice4": "Deductive reasoning",
+    "answer": 4
+  },
+  {
+    "question": "In philosophy, who is considered the founder of utilitarianism?",
+    "choice1": "Rene Descartes",
+    "choice2": "David Hume",
+    "choice3": "Thomas Hobbes",
+    "choice4": "Jeremy Bentham",
+    "answer": 4
+  },
+  {
+    "question": "Which philosopher introduced the concept of 'bad faith' in existentialism?",
+    "choice1": "Martin Buber",
+    "choice2": "Jean-Paul Sartre",
+    "choice3": "Albert Camus",
+    "choice4": "Simone Weil",
+    "answer": 2
+  },
+  {
+    "question": "What is the central idea of absurdism, as explored by Albert Camus?",
+    "choice1": "All events are predetermined",
+    "choice2": "Life has no inherent meaning, but humans seek it anyway",
+    "choice3": "True knowledge is impossible",
+    "choice4": "Morality is objective and universal",
+    "answer": 2
+  },
+  {
+    "question": "Which school of philosophy emphasized living in harmony with nature and accepting fate?",
+    "choice1": "Hedonism",
+    "choice2": "Epicureanism",
+    "choice3": "Sophism",
+    "choice4": "Stoicism",
+    "answer": 4
+  },
+  {
+    "question": "Which feminist philosopher wrote 'The Second Sex'?",
+    "choice1": "Judith Butler",
+    "choice2": "Hannah Arendt",
+    "choice3": "Angela Davis",
+    "choice4": "Simone de Beauvoir",
+    "answer": 4
+  },
+  {
+    "question": "Which philosopher argued that 'man is the measure of all things'?",
+    "choice1": "Zeno",
+    "choice2": "Plato",
+    "choice3": "Socrates",
+    "choice4": "Protagoras",
+    "answer": 4
+  },
+  {
+    "question": "What is the philosophical study of being and existence called?",
+    "choice1": "Epistemology",
+    "choice2": "Ontology",
+    "choice3": "Axiology",
+    "choice4": "Phenomenology",
+    "answer": 2
+  },
+  {
+    "question": "According to Aristotle, what is the ultimate goal of human life?",
+    "choice1": "Wealth",
+    "choice2": "Pleasure",
+    "choice3": "Eudaimonia (flourishing or happiness)",
+    "choice4": "Fame",
+    "answer": 3
+  },
+  {
+    "question": "Which philosophical term refers to a paradox that questions whether a heap remains a heap after grains are removed one by one?",
+    "choice1": "Zeno’s paradox",
+    "choice2": "The liar paradox",
+    "choice3": "The sorites paradox",
+    "choice4": "Ship of Theseus",
+    "answer": 3
+  },{
+    "question": "Who is known for the theory of 'forms' or 'ideas', suggesting that non-material abstract forms possess the highest and most fundamental kind of reality?",
+    "choice1": "Aristotle",
+    "choice2": "Epicurus",
+    "choice3": "Plato",
+    "choice4": "Socrates",
+    "answer": 3
+  },
+  {
+    "question": "Which philosopher is known for the concept of 'the will to power' and critique of traditional morality?",
+    "choice1": "Arthur Schopenhauer",
+    "choice2": "David Hume",
+    "choice3": "Friedrich Nietzsche",
+    "choice4": "Bertrand Russell",
+    "answer": 3
+  },
+  {
+    "question": "What is the name of the ethical theory that emphasizes virtues of mind and character rather than rules or consequences?",
+    "choice1": "Deontology",
+    "choice2": "Utilitarianism",
+    "choice3": "Virtue Ethics",
+    "choice4": "Moral Relativism",
+    "answer": 3
   }
 ]
