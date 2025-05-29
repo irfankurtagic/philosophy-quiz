@@ -14,7 +14,7 @@
 }
 
 html {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Ubuntu';
 }
 
 h1,
@@ -161,4 +161,10 @@ input::placeholder {
     border: 0.1rem solid #56a5eb;
     box-shadow: none;
   }
+}
+
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url(/Ubuntu-Regular.ttf);
 }
