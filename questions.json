@@ -294,7 +294,8 @@
     "choice3": "Death is not the end",
     "choice4": "Knowledge is limited",
     "answer": 2
-  },{
+  },
+  {
     "question": "Which philosopher developed the concept of the 'Übermensch' or 'Overman'?",
     "choice1": "Karl Marx",
     "choice2": "Søren Kierkegaard",
@@ -448,12 +449,13 @@
   },
   {
     "question": "Which philosophical term refers to a paradox that questions whether a heap remains a heap after grains are removed one by one?",
-    "choice1": "Zeno’s paradox",
+    "choice1": "Zeno's paradox",
     "choice2": "The liar paradox",
     "choice3": "The sorites paradox",
     "choice4": "Ship of Theseus",
     "answer": 3
-  },{
+  },
+  {
     "question": "Who is known for the theory of 'forms' or 'ideas', suggesting that non-material abstract forms possess the highest and most fundamental kind of reality?",
     "choice1": "Aristotle",
     "choice2": "Epicurus",
@@ -476,5 +478,157 @@
     "choice3": "Virtue Ethics",
     "choice4": "Moral Relativism",
     "answer": 3
+  },
+  {
+    "question": "Which political philosopher authored the 1651 book 'Leviathan', arguing for a social contract and absolute sovereignty?",
+    "choice1": "John Locke",
+    "choice2": "Thomas Hobbes",
+    "choice3": "Jean-Jacques Rousseau",
+    "choice4": "Niccolò Machiavelli",
+    "answer": 2
+  },
+  {
+    "question": "Which 18th-century philosopher proposed the idea of the 'tabula rasa', suggesting the mind is born a blank slate?",
+    "choice1": "John Locke",
+    "choice2": "David Hume",
+    "choice3": "George Berkeley",
+    "choice4": "Francis Bacon",
+    "answer": 1
+  },
+  {
+    "question": "What is the philosophical view that physical objects exist only as perceptions in minds, summarized as 'to be is to be perceived'?",
+    "choice1": "Materialism",
+    "choice2": "Solipsism",
+    "choice3": "Subjective Idealism",
+    "choice4": "Phenomenalism",
+    "answer": 3
+  },
+  {
+    "question": "Which Scottish philosopher is famous for his radical empiricism and problem of induction in 'An Enquiry Concerning Human Understanding'?",
+    "choice1": "Adam Smith",
+    "choice2": "David Hume",
+    "choice3": "Thomas Reid",
+    "choice4": "Francis Hutcheson",
+    "answer": 2
+  },
+  {
+    "question": "Which ancient philosophy founded by Zeno of Citium advocates self-control, fortitude, and overcoming destructive emotions?",
+    "choice1": "Epicureanism",
+    "choice2": "Stoicism",
+    "choice3": "Cynicism",
+    "choice4": "Hedonism",
+    "answer": 2
+  },
+  {
+    "question": "Which ancient school of philosophy, founded by Epicurus, held that pleasure (interpreted as tranquility and absence of pain) is the highest good?",
+    "choice1": "Stoicism",
+    "choice2": "Cynicism",
+    "choice3": "Epicureanism",
+    "choice4": "Skepticism",
+    "answer": 3
+  },
+  {
+    "question": "Who is the 19th-century German philosopher who developed the theory of historical materialism and co-authored 'The Communist Manifesto'?",
+    "choice1": "Friedrich Engels",
+    "choice2": "Karl Marx",
+    "choice3": "G.W.F. Hegel",
+    "choice4": "Ludwig Feuerbach",
+    "answer": 2
+  },
+  {
+    "question": "Which German idealist philosopher developed the dialectical method involving thesis, antithesis, and synthesis?",
+    "choice1": "G.W.F. Hegel",
+    "choice2": "Immanuel Kant",
+    "choice3": "Johann Gottlieb Fichte",
+    "choice4": "Friedrich Schelling",
+    "answer": 1
+  },
+  {
+    "question": "Which German philosopher was deeply influenced by Eastern philosophy and viewed the universe as driven by a blind, irrational 'Will' in 'The World as Will and Representation'?",
+    "choice1": "Friedrich Nietzsche",
+    "choice2": "Arthur Schopenhauer",
+    "choice3": "Martin Heidegger",
+    "choice4": "Gottfried Wilhelm Leibniz",
+    "answer": 2
+  },
+  {
+    "question": "Who developed the 'Chinese Room' thought experiment to argue against the possibility of strong artificial intelligence?",
+    "choice1": "Alan Turing",
+    "choice2": "John Searle",
+    "choice3": "Daniel Dennett",
+    "choice4": "Hilary Putnam",
+    "answer": 2
+  },
+  {
+    "question": "What is the philosophical term for the subjective, first-person qualities of conscious experience (e.g., the redness of a rose)?",
+    "choice1": "Qualia",
+    "choice2": "Monads",
+    "choice3": "Noumena",
+    "choice4": "A priori",
+    "answer": 1
+  },
+  {
+    "question": "According to Immanuel Kant, what term refers to things-in-themselves, as opposed to how they appear to human perception (phenomena)?",
+    "choice1": "A posteriori",
+    "choice2": "Dialectics",
+    "choice3": "Categorical",
+    "choice4": "Noumena",
+    "answer": 4
+  },
+  {
+    "question": "What is the famous philosophical thought experiment involving a ship whose parts are replaced one by one, raising questions about identity over time?",
+    "choice1": "The Grandfather Paradox",
+    "choice2": "Achilles and the Tortoise",
+    "choice3": "The Ship of Theseus",
+    "choice4": "The Sorites Paradox",
+    "answer": 3
+  },
+  {
+    "question": "Which ancient Chinese philosopher and founder of Taoism is traditionally credited with writing the 'Tao Te Ching'?",
+    "choice1": "Confucius",
+    "choice2": "Mencius",
+    "choice3": "Zhuangzi",
+    "choice4": "Laozi",
+    "answer": 4
+  },
+  {
+    "question": "In Chinese philosophy, which ancient thinker emphasized virtue, filial piety, proper social relationships, and ritual (Li)?",
+    "choice1": "Laozi",
+    "choice2": "Sun Tzu",
+    "choice3": "Confucius",
+    "choice4": "Han Feizi",
+    "answer": 3
+  },
+  {
+    "question": "Which 20th-century Austrian-British philosopher authored the 'Tractatus Logico-Philosophicus' and 'Philosophical Investigations'?",
+    "choice1": "Bertrand Russell",
+    "choice2": "G.E. Moore",
+    "choice3": "Karl Popper",
+    "choice4": "Ludwig Wittgenstein",
+    "answer": 4
+  },
+  {
+    "question": "Which philosopher of science proposed the concept of falsifiability as the criterion distinguishing science from non-science?",
+    "choice1": "Thomas Kuhn",
+    "choice2": "Imre Lakatos",
+    "choice3": "Paul Feyerabend",
+    "choice4": "Karl Popper",
+    "answer": 4
+  },
+  {
+    "question": "Which philosopher and historian introduced the concept of 'paradigm shifts' in his book 'The Structure of Scientific Revolutions'?",
+    "choice1": "Thomas Kuhn",
+    "choice2": "Karl Popper",
+    "choice3": "Willard Van Orman Quine",
+    "choice4": "Richard Rorty",
+    "answer": 1
+  },
+  {
+    "question": "What position in the philosophy of mind asserts that the mind and body are two distinct substances?",
+    "choice1": "Property Dualism",
+    "choice2": "Substance Dualism",
+    "choice3": "Functionalism",
+    "choice4": "Physicalism",
+    "answer": 2
   }
 ]
