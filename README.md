@@ -25,12 +25,7 @@ Dark             |  Light
 *  Questions stored separately in JSON
 *  No frameworks or external dependencies
 
-##  Built With
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **JSON**
 
 ##  Project Structure
 
