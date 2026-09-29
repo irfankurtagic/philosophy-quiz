@@ -4,7 +4,7 @@ A small, hopefully fun **philosophy quiz** covering questions about philosophers
 
 ## 🔗 Play
 
-**[Play Philosophy Quiz](https://byc0jl3.neocities.org/philosophy-quiz/)**
+**[Play Philosophy Quiz](https://irfankurtagic.github.io/philosophy-quiz/)**
 
 ## 🌙 Theme
 
