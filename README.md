@@ -2,8 +2,6 @@
 
 A small, hopefully fun **philosophy quiz** covering questions about philosophers, philosophical ideas, and the history of philosophy.
 
-Test your knowledge.
-
 ## 🔗 Play
 
 **[Play Philosophy Quiz](https://byc0jl3.neocities.org/philosophy-quiz/)**
